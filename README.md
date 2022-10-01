@@ -21,3 +21,8 @@ The data is about 1TB in size.  We use Dask for this.
 This repository has the notebook used to generate the data,
 the data itself as a parquet file,
 and a nice image showing growing usage.
+
+
+## Results
+
+![A plot of Matplotlib usage on arVix showing strong growth from 2004 to 2022 from 0 to 17%](fancy_plot.png?raw=true "Matplotlib usage on arXiv over time")
