@@ -25,4 +25,4 @@ and a nice image showing growing usage.
 
 ## Results
 
-![A plot of Matplotlib usage on arVix showing strong growth from 2004 to 2022 from 0 to 17%](fancy_plot.png?raw=true "Matplotlib usage on arXiv over time")
+![A plot of Matplotlib usage on arVix showing strong growth from 2004 to 2022 from 0 to 17%](results.png?raw=true "Matplotlib usage on arXiv over time")
