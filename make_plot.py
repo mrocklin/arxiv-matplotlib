@@ -2,8 +2,11 @@ import datetime
 
 import matplotlib.pyplot as plt
 from matplotlib.ticker import PercentFormatter
+import matplotlib as mpl
 
 import pandas as pd
+
+mpl.rcParams["date.autoformatter.year"] = "'%y"
 
 # read data
 by_month = pd.read_parquet("results.parquet").groupby("date").has_matplotlib.mean()
